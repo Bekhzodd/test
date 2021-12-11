@@ -4,3 +4,4 @@ print(x**2)
 print('Salomlar')
 
 print('A')
+print('B')
